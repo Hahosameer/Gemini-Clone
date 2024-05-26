@@ -1,0 +1,12 @@
+#menu{
+    display: none;
+}
+.icon{
+    cursor: pointer;
+    color: black;
+}
+@media (max-width: 600px) {
+    #menu{
+        display: block;
+    }
+}
